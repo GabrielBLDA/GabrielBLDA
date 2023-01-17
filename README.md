@@ -1,3 +1,2 @@
-![java](https://user-images.githubusercontent.com/86329011/213033980-a6357d1a-54b9-4a2f-9e3a-021ebcc7711e.png)
-
-
+![java](https://user-images.githubusercontent.com/86329011/213034324-5a953e16-8032-4a27-abc2-50190d33d5d4.png)
+![typescript](https://user-images.githubusercontent.com/86329011/213034784-fb2a416e-29bf-4db7-9455-b4b0e101ba17.png)
